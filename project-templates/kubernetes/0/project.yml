@@ -1,5 +1,5 @@
 name: Kubernetes
-description: Default Kubernetes template
+description: 3dsim Kubernetes template
 stacks:
   - name: kubernetes
     templateId: 'library:infra*k8s'
